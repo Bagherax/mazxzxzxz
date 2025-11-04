@@ -1,0 +1,223 @@
+
+[
+  {
+    "id": "auc_001",
+    "title": "Vintage Leather Pilot Jacket",
+    "price": "250.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=81", "https://picsum.photos/400/500?random=261", "https://picsum.photos/400/500?random=262"],
+    "description": "Authentic 1950s leather pilot jacket. In excellent condition for its age. A true collector's item.",
+    "location": "San Diego, CA",
+    "category": "Auction",
+    "timeLeft": "2d 4h",
+    "user": { "name": "VintageWears", "avatarUrl": "https://i.pravatar.cc/48?u=vintagewears" }
+  },
+  {
+    "id": "auc_002",
+    "title": "Signed First Edition Novel",
+    "price": "800.00",
+    "imageUrls": ["https://loremflickr.com/400/400/book?random=82", "https://loremflickr.com/400/400/book?random=263", "https://loremflickr.com/400/400/book?random=264"],
+    "description": "A rare, signed first edition of a modern classic. Includes certificate of authenticity.",
+    "location": "New York, NY",
+    "category": "Auction",
+    "timeLeft": "5d 1h",
+    "user": { "name": "RareBooks", "avatarUrl": "https://i.pravatar.cc/48?u=rarebooks" }
+  },
+  {
+    "id": "auc_003",
+    "title": "Mid-Century Modern Armchair",
+    "price": "1200.00",
+    "imageUrls": ["https://picsum.photos/400/600?random=83", "https://picsum.photos/400/600?random=265", "https://picsum.photos/400/600?random=266"],
+    "description": "An iconic armchair from a renowned Danish designer, circa 1960. Original upholstery.",
+    "location": "Palm Springs, CA",
+    "category": "Auction",
+    "timeLeft": "1d 8h",
+    "user": { "name": "ModernFinds", "avatarUrl": "https://i.pravatar.cc/48?u=modernfinds" }
+  },
+  {
+    "id": "auc_004",
+    "title": "Antique World Map (1880)",
+    "price": "450.00",
+    "imageUrls": ["https://loremflickr.com/400/300/map?random=84", "https://loremflickr.com/400/300/map?random=267", "https://loremflickr.com/400/300/map?random=268"],
+    "description": "A beautifully detailed and framed world map from 1880. A stunning piece for any study.",
+    "location": "London, UK",
+    "category": "Auction",
+    "timeLeft": "6h 30m",
+    "user": { "name": "Cartographer", "avatarUrl": "https://i.pravatar.cc/48?u=cartographer" }
+  },
+  {
+    "id": "auc_005",
+    "title": "Limited Edition Screen Print",
+    "price": "600.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=85", "https://picsum.photos/400/500?random=269", "https://picsum.photos/400/500?random=270"],
+    "description": "A signed and numbered screen print by a popular contemporary artist. Edition of 100.",
+    "location": "Los Angeles, CA",
+    "category": "Auction",
+    "timeLeft": "3d 12h",
+    "user": { "name": "ArtCollector", "avatarUrl": "https://i.pravatar.cc/48?u=artcollector" }
+  },
+  {
+    "id": "auc_006",
+    "title": "Vintage Mechanical Watch",
+    "price": "1500.00",
+    "imageUrls": ["https://loremflickr.com/400/400/watch?random=86", "https://loremflickr.com/400/400/watch?random=271", "https://loremflickr.com/400/400/watch?random=272"],
+    "description": "A classic Swiss-made mechanical chronograph from the 1970s. Recently serviced and running perfectly.",
+    "location": "Geneva, Switzerland",
+    "category": "Auction",
+    "timeLeft": "6d 2h",
+    "user": { "name": "TimeKeepers", "avatarUrl": "https://i.pravatar.cc/48?u=timekeepers" }
+  },
+  {
+    "id": "auc_007",
+    "title": "Rare Vinyl Record",
+    "price": "300.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=87", "https://picsum.photos/400/400?random=273", "https://picsum.photos/400/400?random=274"],
+    "description": "An original pressing of a cult classic album. The cover and vinyl are in near-mint condition.",
+    "location": "Nashville, TN",
+    "category": "Auction",
+    "timeLeft": "18h",
+    "user": { "name": "VinylJunkie", "avatarUrl": "https://i.pravatar.cc/48?u=vinyljunkie" }
+  },
+  {
+    "id": "auc_008",
+    "title": "Meteorite Fragment",
+    "price": "200.00",
+    "imageUrls": ["https://loremflickr.com/400/300/space?random=88", "https://loremflickr.com/400/300/space?random=275", "https://loremflickr.com/400/300/space?random=276"],
+    "description": "A genuine iron meteorite fragment from the Campo del Cielo fall. Includes display case.",
+    "location": "Tucson, AZ",
+    "category": "Auction",
+    "timeLeft": "1d 3h",
+    "user": { "name": "CosmicFinds", "avatarUrl": "https://i.pravatar.cc/48?u=cosmicfinds" }
+  },
+  {
+    "id": "auc_009",
+    "title": "Designer Silk Scarf",
+    "price": "220.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=89", "https://picsum.photos/400/500?random=277", "https://picsum.photos/400/500?random=278"],
+    "description": "A beautiful, vintage silk scarf from a famous French luxury fashion house.",
+    "location": "Paris, France",
+    "category": "Auction",
+    "timeLeft": "4d",
+    "user": { "name": "LuxeVintage", "avatarUrl": "https://i.pravatar.cc/48?u=luxevintage" }
+  },
+  {
+    "id": "auc_010",
+    "title": "1980s Retro Boombox",
+    "price": "180.00",
+    "imageUrls": ["https://loremflickr.com/400/400/boombox?random=90", "https://loremflickr.com/400/400/boombox?random=279", "https://loremflickr.com/400/400/boombox?random=280"],
+    "description": "A classic 80s boombox with cassette player and radio. Fully functional and sounds great.",
+    "location": "Brooklyn, NY",
+    "category": "Auction",
+    "timeLeft": "12h 15m",
+    "user": { "name": "RetroSound", "avatarUrl": "https://i.pravatar.cc/48?u=retrosound" }
+  },
+  {
+    "id": "auc_011",
+    "title": "Antique Brass Telescope",
+    "price": "550.00",
+    "imageUrls": ["https://picsum.photos/400/600?random=91", "https://picsum.photos/400/600?random=281", "https://picsum.photos/400/600?random=282"],
+    "description": "A stunning Victorian-era brass telescope on a wooden tripod. A beautiful decorative piece.",
+    "location": "Boston, MA",
+    "category": "Auction",
+    "timeLeft": "3d 5h",
+    "user": { "name": "CurioCabinet", "avatarUrl": "https://i.pravatar.cc/48?u=curiocabinet" }
+  },
+  {
+    "id": "auc_012",
+    "title": "Persian Wool Rug",
+    "price": "1800.00",
+    "imageUrls": ["https://loremflickr.com/400/300/rug?random=92", "https://loremflickr.com/400/300/rug?random=283", "https://loremflickr.com/400/300/rug?random=284"],
+    "description": "A hand-knotted Persian rug with intricate patterns and rich colors. Measures 8' x 10'.",
+    "location": "Istanbul, Turkey",
+    "category": "Auction",
+    "timeLeft": "7d",
+    "user": { "name": "RugMerchant", "avatarUrl": "https://i.pravatar.cc/48?u=rugmerchant" }
+  },
+  {
+    "id": "auc_013",
+    "title": "Original Movie Poster",
+    "price": "750.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=93", "https://picsum.photos/400/500?random=285", "https://picsum.photos/400/500?random=286"],
+    "description": "An original one-sheet poster from a classic 1970s sci-fi film. Linen-backed for preservation.",
+    "location": "Austin, TX",
+    "category": "Auction",
+    "timeLeft": "2d 9h",
+    "user": { "name": "Cinephile", "avatarUrl": "https://i.pravatar.cc/48?u=cinephile" }
+  },
+  {
+    "id": "auc_014",
+    "title": "Art Deco Diamond Ring",
+    "price": "2200.00",
+    "imageUrls": ["https://loremflickr.com/400/400/ring?random=94", "https://loremflickr.com/400/400/ring?random=287", "https://loremflickr.com/400/400/ring?random=288"],
+    "description": "An elegant platinum and diamond ring from the 1920s, featuring geometric designs.",
+    "location": "Miami, FL",
+    "category": "Auction",
+    "timeLeft": "5d",
+    "user": { "name": "EstateJewelry", "avatarUrl": "https://i.pravatar.cc/48?u=estatejewelry" }
+  },
+  {
+    "id": "auc_015",
+    "title": "Handmade Wooden Chess Set",
+    "price": "150.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=95", "https://picsum.photos/400/400?random=289", "https://picsum.photos/400/400?random=290"],
+    "description": "A beautifully carved wooden chess set with intricate details on each piece. A work of art.",
+    "location": "Prague, Czech Republic",
+    "category": "Auction",
+    "timeLeft": "22h",
+    "user": { "name": "MasterCrafter", "avatarUrl": "https://i.pravatar.cc/48?u=mastercrafter" }
+  },
+  {
+    "id": "auc_016",
+    "title": "Fossil Ammonite",
+    "price": "120.00",
+    "imageUrls": ["https://loremflickr.com/400/300/fossil?random=96", "https://loremflickr.com/400/300/fossil?random=291", "https://loremflickr.com/400/300/fossil?random=292"],
+    "description": "A large, well-preserved ammonite fossil from Madagascar, cut and polished to show the inner chambers.",
+    "location": "Denver, CO",
+    "category": "Auction",
+    "timeLeft": "1d 2h",
+    "user": { "name": "PaleoFinds", "avatarUrl": "https://i.pravatar.cc/48?u=paleofinds" }
+  },
+  {
+    "id": "auc_017",
+    "title": "Vintage Tin Toy Robot",
+    "price": "280.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=97", "https://picsum.photos/400/500?random=293", "https://picsum.photos/400/500?random=294"],
+    "description": "A classic 1960s tin toy robot made in Japan. Wind-up mechanism is in working order.",
+    "location": "Tokyo, Japan",
+    "category": "Auction",
+    "timeLeft": "4h 45m",
+    "user": { "name": "ToyHunter", "avatarUrl": "https://i.pravatar.cc/48?u=toyhunter" }
+  },
+  {
+    "id": "auc_018",
+    "title": "Rare Comic Book Issue #1",
+    "price": "3500.00",
+    "imageUrls": ["https://loremflickr.com/400/400/comic?random=98", "https://loremflickr.com/400/400/comic?random=295", "https://loremflickr.com/400/400/comic?random=296"],
+    "description": "A high-grade first issue of a key Silver Age comic book. A great investment piece.",
+    "location": "San Diego, CA",
+    "category": "Auction",
+    "timeLeft": "8d",
+    "user": { "name": "ComicVault", "avatarUrl": "https://i.pravatar.cc/48?u=comicvault" }
+  },
+  {
+    "id": "auc_019",
+    "title": "Antique Ship in a Bottle",
+    "price": "180.00",
+    "imageUrls": ["https://picsum.photos/400/600?random=99", "https://picsum.photos/400/600?random=297", "https://picsum.photos/400/600?random=298"],
+    "description": "A detailed and meticulously crafted ship in a bottle, dating back to the early 1900s.",
+    "location": "Nantucket, MA",
+    "category": "Auction",
+    "timeLeft": "1d",
+    "user": { "name": "NauticalNook", "avatarUrl": "https://i.pravatar.cc/48?u=nauticalnook" }
+  },
+  {
+    "id": "auc_020",
+    "title": "Classic Car Model",
+    "price": "90.00",
+    "imageUrls": ["https://loremflickr.com/400/300/car?random=100", "https://loremflickr.com/400/300/car?random=299", "https://loremflickr.com/400/300/car?random=300"],
+    "description": "A highly detailed 1:18 scale die-cast model of a classic 1960s sports car.",
+    "location": "Detroit, MI",
+    "category": "Auction",
+    "timeLeft": "9h",
+    "user": { "name": "ModelCars", "avatarUrl": "https://i.pravatar.cc/48?u=modelcars" }
+  }
+]

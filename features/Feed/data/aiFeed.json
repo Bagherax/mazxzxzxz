@@ -1,0 +1,143 @@
+
+[
+  {
+    "id": "soc_001",
+    "title": "Boost Your Art Sale!",
+    "description": "Get your artwork featured on our homepage for 24 hours and reach thousands of potential buyers.",
+    "reason": "Click to learn more about our Social Booster packs.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_002",
+    "title": "Launch Your Vintage Collection",
+    "description": "Promote your entire vintage clothing collection with a dedicated email blast to our subscribers.",
+    "reason": "Target fashion lovers directly in their inbox.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_003",
+    "title": "Sell Out Your Handmade Goods",
+    "description": "Feature your craft items in our 'Handmade Heroes' section for a week.",
+    "reason": "Get prime placement in a popular category.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_004",
+    "title": "Spotlight Your Tech Gadgets",
+    "description": "We'll create a professional video short showcasing your tech item and promote it on our social channels.",
+    "reason": "Engage buyers with dynamic video content.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_005",
+    "title": "Furniture Feature",
+    "description": "List your furniture piece in our weekly 'Interior Inspiration' lookbook.",
+    "reason": "Show your item in a beautifully styled context.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_006",
+    "title": "Collector's Corner",
+    "description": "Get your collectibles (coins, stamps, figures) appraised and featured by our expert partners.",
+    "reason": "Add credibility and attract serious collectors.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_007",
+    "title": "Auction Alert",
+    "description": "Send a push notification to all users watching the 'Auction' category right before your auction ends.",
+    "reason": "Create urgency and drive last-minute bids.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_008",
+    "title": "Local Love",
+    "description": "Promote your ad to all users within a 25-mile radius of your location.",
+    "reason": "Perfect for items that are hard to ship.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_009",
+    "title": "MAZ-AI Ad Copywriting",
+    "description": "Let our AI rewrite your title and description to be more engaging and improve its visibility in search.",
+    "reason": "Optimize your listing with the power of AI.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_010",
+    "title": "The Trader's Edge",
+    "description": "Highlight your 'For Trade' items to users who have similar items listed.",
+    "reason": "Find the perfect trading partner faster.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_011",
+    "title": "Holiday Gift Guide Placement",
+    "description": "Feature your item in our official Holiday Gift Guide, seen by millions of shoppers.",
+    "reason": "Capitalize on seasonal shopping traffic.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_012",
+    "title": "Flash Sale Promotion",
+    "description": "Announce a 24-hour flash sale on your items with a banner on the main feed.",
+    "reason": "Generate quick sales and buzz.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_013",
+    "title": "Musician's Marketplace",
+    "description": "Get your instrument or gear featured in our curated section for musicians.",
+    "reason": "Reach a passionate and knowledgeable audience.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_014",
+    "title": "Automotive Spotlight",
+    "description": "Promote your car or motorcycle parts to users who have viewed related vehicles.",
+    "reason": "Connect with motivated buyers and DIY enthusiasts.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_015",
+    "title": "Book Club Recommendation",
+    "description": "Have your rare or first-edition book featured as the 'MAZ Book Club Pick of the Week'.",
+    "reason": "Attract bibliophiles and serious collectors.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_016",
+    "title": "Early Access Preview",
+    "description": "Give a select group of power users early access to your new listings before they go public.",
+    "reason": "Build hype and secure initial sales.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_017",
+    "title": "Designer Fashion Feature",
+    "description": "Your luxury fashion item will be included in our weekly 'Designer Drops' newsletter.",
+    "reason": "Reach high-intent buyers interested in luxury goods.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_018",
+    "title": "The Gamer's Advantage",
+    "description": "Promote your video games or hardware on our dedicated gaming portal.",
+    "reason": "Connect with a massive community of gamers.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_019",
+    "title": "Home Decor Highlight",
+    "description": "Feature your decor item in a 'Shop the Look' post on our official Instagram.",
+    "reason": "Leverage our social media reach for massive exposure.",
+    "category": "Social Media Booster"
+  },
+  {
+    "id": "soc_020",
+    "title": "Eco-Friendly Focus",
+    "description": "Get your sustainable or upcycled product featured in our 'Green Marketplace' collection.",
+    "reason": "Appeal to environmentally conscious shoppers.",
+    "category": "Social Media Booster"
+  }
+]

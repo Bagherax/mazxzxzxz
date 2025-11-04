@@ -1,0 +1,603 @@
+
+[
+  {
+    "id": "ad_001",
+    "title": "Handmade Ceramic Mug",
+    "price": "28.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=1", "https://picsum.photos/400/300?random=101", "https://picsum.photos/400/300?random=102"],
+    "description": "Unique, handcrafted ceramic mug. Perfect for your morning coffee. Dishwasher safe.",
+    "location": "Asheville, NC",
+    "category": "Free Ad",
+    "user": { "name": "Clara Oswald", "avatarUrl": "https://randomuser.me/api/portraits/women/1.jpg" }
+  },
+  {
+    "id": "ad_002",
+    "title": "Vintage Leather Journal",
+    "price": "45.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=2", "https://picsum.photos/400/500?random=103", "https://picsum.photos/400/500?random=104"],
+    "description": "A beautiful leather-bound journal with 200 unlined pages. Perfect for writing or sketching.",
+    "location": "Boston, MA",
+    "category": "Trading",
+    "user": { "name": "John Smith", "avatarUrl": "https://randomuser.me/api/portraits/men/2.jpg" }
+  },
+  {
+    "id": "ad_003",
+    "title": "Modern Desk Lamp",
+    "price": "60.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=3", "https://picsum.photos/400/400?random=105", "https://picsum.photos/400/400?random=106"],
+    "description": "Sleek LED desk lamp with adjustable brightness and color temperature. USB charging port included.",
+    "location": "San Francisco, CA",
+    "category": "Free Ad",
+    "user": { "name": "Emily Jones", "avatarUrl": "https://randomuser.me/api/portraits/women/3.jpg" }
+  },
+  {
+    "id": "ad_004",
+    "title": "Portable Bluetooth Speaker",
+    "price": "75.00",
+    "imageUrls": ["https://loremflickr.com/400/300/speaker?random=4", "https://loremflickr.com/400/300/speaker?random=107", "https://loremflickr.com/400/300/speaker?random=108"],
+    "description": "Compact and powerful Bluetooth speaker with 12-hour battery life and waterproof design.",
+    "location": "Austin, TX",
+    "category": "Trading",
+    "user": { "name": "Michael Brown", "avatarUrl": "https://randomuser.me/api/portraits/men/4.jpg" }
+  },
+  {
+    "id": "ad_005",
+    "title": "Gourmet Coffee Bean Set",
+    "price": "35.00",
+    "imageUrls": ["https://loremflickr.com/400/500/coffee?random=5", "https://loremflickr.com/400/500/coffee?random=109", "https://loremflickr.com/400/500/coffee?random=110"],
+    "description": "A sampler set of three single-origin coffee beans, freshly roasted. Notes of chocolate and citrus.",
+    "location": "Seattle, WA",
+    "category": "Free Ad",
+    "user": { "name": "Jessica Davis", "avatarUrl": "https://randomuser.me/api/portraits/women/5.jpg" }
+  },
+  {
+    "id": "ad_006",
+    "title": "Yoga Mat with Carrying Strap",
+    "price": "40.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=6", "https://picsum.photos/400/300?random=111", "https://picsum.photos/400/300?random=112"],
+    "description": "Eco-friendly, non-slip yoga mat. Provides excellent cushioning and support. Includes a cotton strap.",
+    "location": "Los Angeles, CA",
+    "category": "Free Ad",
+    "user": { "name": "David Miller", "avatarUrl": "https://randomuser.me/api/portraits/men/6.jpg" }
+  },
+  {
+    "id": "ad_007",
+    "title": "Set of 3 Indoor Planters",
+    "price": "50.00",
+    "imageUrls": ["https://loremflickr.com/400/400/planter?random=7", "https://loremflickr.com/400/400/planter?random=113", "https://loremflickr.com/400/400/planter?random=114"],
+    "description": "Minimalist ceramic planters in three different sizes. Perfect for succulents or small houseplants.",
+    "location": "Portland, OR",
+    "category": "Trading",
+    "user": { "name": "Sarah Wilson", "avatarUrl": "https://randomuser.me/api/portraits/women/7.jpg" }
+  },
+  {
+    "id": "ad_008",
+    "title": "Stainless Steel Water Bottle",
+    "price": "25.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=8", "https://picsum.photos/400/500?random=115", "https://picsum.photos/400/500?random=116"],
+    "description": "Insulated 32oz water bottle that keeps drinks cold for 24 hours or hot for 12 hours.",
+    "location": "Denver, CO",
+    "category": "Free Ad",
+    "user": { "name": "Chris Moore", "avatarUrl": "https://randomuser.me/api/portraits/men/8.jpg" }
+  },
+  {
+    "id": "ad_009",
+    "title": "Wool Throw Blanket",
+    "price": "90.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=9", "https://picsum.photos/400/300?random=117", "https://picsum.photos/400/300?random=118"],
+    "description": "A soft and cozy merino wool blanket. Perfect for cuddling up on the couch. 50\" x 60\".",
+    "location": "Chicago, IL",
+    "category": "Trading",
+    "user": { "name": "Laura Taylor", "avatarUrl": "https://randomuser.me/api/portraits/women/9.jpg" }
+  },
+  {
+    "id": "ad_010",
+    "title": "Smart Notebook",
+    "price": "30.00",
+    "imageUrls": ["https://loremflickr.com/400/400/notebook?random=10", "https://loremflickr.com/400/400/notebook?random=119", "https://loremflickr.com/400/400/notebook?random=120"],
+    "description": "Digitize your handwritten notes. This reusable notebook uploads your notes to the cloud.",
+    "location": "New York, NY",
+    "category": "Free Ad",
+    "user": { "name": "Robert Anderson", "avatarUrl": "https://randomuser.me/api/portraits/men/10.jpg" }
+  },
+  {
+    "id": "ad_011",
+    "title": "Vintage Film Camera",
+    "price": "125.00",
+    "imageUrls": ["https://loremflickr.com/400/300/camera?random=11", "https://loremflickr.com/400/300/camera?random=121", "https://loremflickr.com/400/300/camera?random=122"],
+    "description": "Classic 35mm film camera in great working condition. A joy to shoot with.",
+    "location": "Portland, OR",
+    "category": "Trading",
+    "user": { "name": "PhotoFanatic", "avatarUrl": "https://randomuser.me/api/portraits/women/11.jpg" }
+  },
+  {
+    "id": "ad_012",
+    "title": "Ergonomic Mouse",
+    "price": "55.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=12", "https://picsum.photos/400/500?random=123", "https://picsum.photos/400/500?random=124"],
+    "description": "Vertical ergonomic mouse designed to reduce wrist strain. Wireless with a USB receiver.",
+    "location": "Raleigh, NC",
+    "category": "Free Ad",
+    "user": { "name": "TechieTom", "avatarUrl": "https://randomuser.me/api/portraits/men/12.jpg" }
+  },
+  {
+    "id": "ad_013",
+    "title": "Cast Iron Skillet",
+    "price": "35.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=13", "https://picsum.photos/400/400?random=125", "https://picsum.photos/400/400?random=126"],
+    "description": "Pre-seasoned 12-inch cast iron skillet. A kitchen workhorse that will last a lifetime.",
+    "location": "Nashville, TN",
+    "category": "Free Ad",
+    "user": { "name": "HomeChef", "avatarUrl": "https://randomuser.me/api/portraits/women/13.jpg" }
+  },
+  {
+    "id": "ad_014",
+    "title": "Canvas Backpack",
+    "price": "65.00",
+    "imageUrls": ["https://loremflickr.com/400/300/backpack?random=14", "https://loremflickr.com/400/300/backpack?random=127", "https://loremflickr.com/400/300/backpack?random=128"],
+    "description": "Durable canvas backpack with a laptop sleeve and multiple pockets. Perfect for school or travel.",
+    "location": "Brooklyn, NY",
+    "category": "Trading",
+    "user": { "name": "UrbanExplorer", "avatarUrl": "https://randomuser.me/api/portraits/men/14.jpg" }
+  },
+  {
+    "id": "ad_015",
+    "title": "French Press Coffee Maker",
+    "price": "30.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=15", "https://picsum.photos/400/500?random=129", "https://picsum.photos/400/500?random=130"],
+    "description": "Glass and stainless steel French press. Makes a rich and flavorful cup of coffee. 8-cup capacity.",
+    "location": "San Diego, CA",
+    "category": "Free Ad",
+    "user": { "name": "CoffeeLover", "avatarUrl": "https://randomuser.me/api/portraits/women/15.jpg" }
+  },
+  {
+    "id": "ad_016",
+    "title": "Fountain Pen",
+    "price": "50.00",
+    "imageUrls": ["https://loremflickr.com/400/400/pen?random=16", "https://loremflickr.com/400/400/pen?random=131", "https://loremflickr.com/400/400/pen?random=132"],
+    "description": "A classic fountain pen with a medium nib. Provides a smooth writing experience. Ink converter included.",
+    "location": "Philadelphia, PA",
+    "category": "Trading",
+    "user": { "name": "WriterLife", "avatarUrl": "https://randomuser.me/api/portraits/men/16.jpg" }
+  },
+  {
+    "id": "ad_017",
+    "title": "Aromatherapy Diffuser",
+    "price": "40.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=17", "https://picsum.photos/400/300?random=133", "https://picsum.photos/400/300?random=134"],
+    "description": "Ultrasonic essential oil diffuser with a wood grain finish and color-changing LED lights.",
+    "location": "Miami, FL",
+    "category": "Free Ad",
+    "user": { "name": "ZenSeeker", "avatarUrl": "https://randomuser.me/api/portraits/women/17.jpg" }
+  },
+  {
+    "id": "ad_018",
+    "title": "Set of Resistance Bands",
+    "price": "20.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=18", "https://picsum.photos/400/500?random=135", "https://picsum.photos/400/500?random=136"],
+    "description": "A set of five resistance loop bands for fitness and physical therapy. From light to extra heavy.",
+    "location": "Phoenix, AZ",
+    "category": "Free Ad",
+    "user": { "name": "FitLife", "avatarUrl": "https://randomuser.me/api/portraits/men/18.jpg" }
+  },
+  {
+    "id": "ad_019",
+    "title": "Minimalist Wall Clock",
+    "price": "45.00",
+    "imageUrls": ["https://loremflickr.com/400/400/clock?random=19", "https://loremflickr.com/400/400/clock?random=137", "https://loremflickr.com/400/400/clock?random=138"],
+    "description": "A simple and elegant 12-inch wall clock with a silent quartz movement. Plywood frame.",
+    "location": "Minneapolis, MN",
+    "category": "Trading",
+    "user": { "name": "DesignMinded", "avatarUrl": "https://randomuser.me/api/portraits/women/19.jpg" }
+  },
+  {
+    "id": "ad_020",
+    "title": "Electric Kettle",
+    "price": "50.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=20", "https://picsum.photos/400/300?random=139", "https://picsum.photos/400/300?random=140"],
+    "description": "1.7L glass electric kettle with fast-boil technology and automatic shut-off. Blue LED illumination.",
+    "location": "Dallas, TX",
+    "category": "Free Ad",
+    "user": { "name": "TeaTime", "avatarUrl": "https://randomuser.me/api/portraits/men/20.jpg" }
+  },
+  {
+    "id": "ad_021",
+    "title": "Bonsai Tree Starter Kit",
+    "price": "35.00",
+    "imageUrls": ["https://loremflickr.com/400/500/bonsai?random=21", "https://loremflickr.com/400/500/bonsai?random=141", "https://loremflickr.com/400/500/bonsai?random=142"],
+    "description": "Grow your own bonsai tree. This kit includes a Japanese Juniper seedling, pot, soil, and tools.",
+    "location": "Sacramento, CA",
+    "category": "Trading",
+    "user": { "name": "GreenThumb", "avatarUrl": "https://randomuser.me/api/portraits/women/21.jpg" }
+  },
+  {
+    "id": "ad_022",
+    "title": "Cocktail Shaker Set",
+    "price": "40.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=22", "https://picsum.photos/400/400?random=143", "https://picsum.photos/400/400?random=144"],
+    "description": "A complete bartender kit with a shaker, jigger, strainer, and muddler. Stainless steel.",
+    "location": "New Orleans, LA",
+    "category": "Free Ad",
+    "user": { "name": "Mixologist", "avatarUrl": "https://randomuser.me/api/portraits/men/22.jpg" }
+  },
+  {
+    "id": "ad_023",
+    "title": "Silk Pillowcase",
+    "price": "30.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=23", "https://picsum.photos/400/300?random=145", "https://picsum.photos/400/300?random=146"],
+    "description": "A 100% mulberry silk pillowcase. Gentle on your hair and skin. Standard queen size.",
+    "location": "Beverly Hills, CA",
+    "category": "Free Ad",
+    "user": { "name": "BeautySleep", "avatarUrl": "https://randomuser.me/api/portraits/women/23.jpg" }
+  },
+  {
+    "id": "ad_024",
+    "title": "Ukulele",
+    "price": "60.00",
+    "imageUrls": ["https://loremflickr.com/400/500/ukulele?random=24", "https://loremflickr.com/400/500/ukulele?random=147", "https://loremflickr.com/400/500/ukulele?random=148"],
+    "description": "A concert-sized ukulele made from mahogany. Has a bright and cheerful tone. Includes a gig bag.",
+    "location": "Honolulu, HI",
+    "category": "Trading",
+    "user": { "name": "IslandVibes", "avatarUrl": "https://randomuser.me/api/portraits/men/24.jpg" }
+  },
+  {
+    "id": "ad_025",
+    "title": "Scented Candle",
+    "price": "22.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=25", "https://picsum.photos/400/400?random=149", "https://picsum.photos/400/400?random=150"],
+    "description": "A hand-poured soy wax candle with a sandalwood and vanilla scent. 60-hour burn time.",
+    "location": "Charleston, SC",
+    "category": "Free Ad",
+    "user": { "name": "CozyHome", "avatarUrl": "https://randomuser.me/api/portraits/women/25.jpg" }
+  },
+  {
+    "id": "ad_026",
+    "title": "Leather Wallet",
+    "price": "55.00",
+    "imageUrls": ["https://loremflickr.com/400/300/wallet?random=26", "https://loremflickr.com/400/300/wallet?random=151", "https://loremflickr.com/400/300/wallet?random=152"],
+    "description": "A slim, bifold wallet made from full-grain leather. Features RFID-blocking technology.",
+    "location": "Houston, TX",
+    "category": "Trading",
+    "user": { "name": "EverydayCarry", "avatarUrl": "https://randomuser.me/api/portraits/men/26.jpg" }
+  },
+  {
+    "id": "ad_027",
+    "title": "Pour-Over Coffee Dripper",
+    "price": "25.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=27", "https://picsum.photos/400/500?random=153", "https://picsum.photos/400/500?random=154"],
+    "description": "A ceramic pour-over coffee dripper. Fits on most mugs and carafes. Makes a delicious brew.",
+    "location": "Portland, OR",
+    "category": "Free Ad",
+    "user": { "name": "BaristaLife", "avatarUrl": "https://randomuser.me/api/portraits/women/27.jpg" }
+  },
+  {
+    "id": "ad_028",
+    "title": "Chess Set",
+    "price": "70.00",
+    "imageUrls": ["https://loremflickr.com/400/400/chess?random=28", "https://loremflickr.com/400/400/chess?random=155", "https://loremflickr.com/400/400/chess?random=156"],
+    "description": "A high-quality wooden chess set with weighted pieces and a foldable board for storage.",
+    "location": "St. Louis, MO",
+    "category": "Free Ad",
+    "user": { "name": "Grandmaster", "avatarUrl": "https://randomuser.me/api/portraits/men/28.jpg" }
+  },
+  {
+    "id": "ad_029",
+    "title": "Enamel Pins (Set of 3)",
+    "price": "18.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=29", "https://picsum.photos/400/300?random=157", "https://picsum.photos/400/300?random=158"],
+    "description": "A set of three cute, quirky enamel pins to decorate your jacket or backpack.",
+    "location": "Atlanta, GA",
+    "category": "Trading",
+    "user": { "name": "PinCollector", "avatarUrl": "https://randomuser.me/api/portraits/women/29.jpg" }
+  },
+  {
+    "id": "ad_030",
+    "title": "Insulated Lunch Box",
+    "price": "22.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=30", "https://picsum.photos/400/500?random=159", "https://picsum.photos/400/500?random=160"],
+    "description": "A durable, insulated lunch box with multiple compartments to keep your food fresh.",
+    "location": "Washington, D.C.",
+    "category": "Free Ad",
+    "user": { "name": "OfficeWorker", "avatarUrl": "https://randomuser.me/api/portraits/men/30.jpg" }
+  },
+  {
+    "id": "ad_031",
+    "title": "Hardcover Art Book",
+    "price": "50.00",
+    "imageUrls": ["https://loremflickr.com/400/400/book?random=31", "https://loremflickr.com/400/400/book?random=161", "https://loremflickr.com/400/400/book?random=162"],
+    "description": "A beautiful coffee table book showcasing the works of impressionist painters. 250 pages.",
+    "location": "Paris, France",
+    "category": "Trading",
+    "user": { "name": "ArtLover", "avatarUrl": "https://randomuser.me/api/portraits/women/31.jpg" }
+  },
+  {
+    "id": "ad_032",
+    "title": "Travel Pillow",
+    "price": "28.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=32", "https://picsum.photos/400/300?random=163", "https://picsum.photos/400/300?random=164"],
+    "description": "A memory foam neck pillow for comfortable travel. Includes a carrying bag and earplugs.",
+    "location": "London, UK",
+    "category": "Free Ad",
+    "user": { "name": "JetSetter", "avatarUrl": "https://randomuser.me/api/portraits/men/32.jpg" }
+  },
+  {
+    "id": "ad_033",
+    "title": "Mechanical Keyboard",
+    "price": "110.00",
+    "imageUrls": ["https://loremflickr.com/400/500/keyboard?random=33", "https://loremflickr.com/400/500/keyboard?random=165", "https://loremflickr.com/400/500/keyboard?random=166"],
+    "description": "A compact 60% mechanical keyboard with tactile switches and RGB backlighting.",
+    "location": "Tokyo, Japan",
+    "category": "Trading",
+    "user": { "name": "KeyboardClack", "avatarUrl": "https://randomuser.me/api/portraits/women/33.jpg" }
+  },
+  {
+    "id": "ad_034",
+    "title": "Set of Coasters",
+    "price": "20.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=34", "https://picsum.photos/400/400?random=167", "https://picsum.photos/400/400?random=168"],
+    "description": "A set of four absorbent ceramic coasters with a cork base and a modern design.",
+    "location": "Detroit, MI",
+    "category": "Free Ad",
+    "user": { "name": "Homebody", "avatarUrl": "https://randomuser.me/api/portraits/men/34.jpg" }
+  },
+  {
+    "id": "ad_035",
+    "title": "Binoculars",
+    "price": "80.00",
+    "imageUrls": ["https://loremflickr.com/400/300/binoculars?random=35", "https://loremflickr.com/400/300/binoculars?random=169", "https://loremflickr.com/400/300/binoculars?random=170"],
+    "description": "Compact 10x42 binoculars, perfect for bird watching or hiking. Waterproof and fog-proof.",
+    "location": "Yellowstone, WY",
+    "category": "Trading",
+    "user": { "name": "NatureWatcher", "avatarUrl": "https://randomuser.me/api/portraits/women/35.jpg" }
+  },
+  {
+    "id": "ad_036",
+    "title": "Desk Organizer",
+    "price": "25.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=36", "https://picsum.photos/400/500?random=171", "https://picsum.photos/400/500?random=172"],
+    "description": "A wooden desk organizer with compartments for pens, notepads, and your phone.",
+    "location": "Boise, ID",
+    "category": "Free Ad",
+    "user": { "name": "TidyDesk", "avatarUrl": "https://randomuser.me/api/portraits/men/36.jpg" }
+  },
+  {
+    "id": "ad_037",
+    "title": "Harmonica",
+    "price": "30.00",
+    "imageUrls": ["https://loremflickr.com/400/400/harmonica?random=37", "https://loremflickr.com/400/400/harmonica?random=173", "https://loremflickr.com/400/400/harmonica?random=174"],
+    "description": "A diatonic harmonica in the key of C. Great for playing blues, folk, and rock music.",
+    "location": "Memphis, TN",
+    "category": "Trading",
+    "user": { "name": "BluesMan", "avatarUrl": "https://randomuser.me/api/portraits/women/37.jpg" }
+  },
+  {
+    "id": "ad_038",
+    "title": "Reusable Shopping Bags",
+    "price": "15.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=38", "https://picsum.photos/400/300?random=175", "https://picsum.photos/400/300?random=176"],
+    "description": "A set of five foldable, reusable shopping bags that fit into a small pouch. Machine washable.",
+    "location": "Berkeley, CA",
+    "category": "Free Ad",
+    "user": { "name": "EcoWarrior", "avatarUrl": "https://randomuser.me/api/portraits/men/38.jpg" }
+  },
+  {
+    "id": "ad_039",
+    "title": "Puzzle (1000 Pieces)",
+    "price": "20.00",
+    "imageUrls": ["https://loremflickr.com/400/500/puzzle?random=39", "https://loremflickr.com/400/500/puzzle?random=177", "https://loremflickr.com/400/500/puzzle?random=178"],
+    "description": "A challenging and beautiful 1000-piece jigsaw puzzle featuring a vibrant landscape.",
+    "location": "Burlington, VT",
+    "category": "Free Ad",
+    "user": { "name": "PuzzleMaster", "avatarUrl": "https://randomuser.me/api/portraits/women/39.jpg" }
+  },
+  {
+    "id": "ad_040",
+    "title": "Jump Rope",
+    "price": "18.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=40", "https://picsum.photos/400/400?random=179", "https://picsum.photos/400/400?random=180"],
+    "description": "A high-speed jump rope with adjustable length and ball bearings for a smooth rotation.",
+    "location": "Las Vegas, NV",
+    "category": "Trading",
+    "user": { "name": "CardioKing", "avatarUrl": "https://randomuser.me/api/portraits/men/40.jpg" }
+  },
+  {
+    "id": "ad_041",
+    "title": "Digital Kitchen Scale",
+    "price": "22.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=41", "https://picsum.photos/400/300?random=181", "https://picsum.photos/400/300?random=182"],
+    "description": "A precise digital kitchen scale for baking and cooking. Measures in grams, ounces, and pounds.",
+    "location": "Kansas City, MO",
+    "category": "Free Ad",
+    "user": { "name": "BakerPro", "avatarUrl": "https://randomuser.me/api/portraits/women/41.jpg" }
+  },
+  {
+    "id": "ad_042",
+    "title": "Classic Sunglasses",
+    "price": "95.00",
+    "imageUrls": ["https://loremflickr.com/400/500/sunglasses?random=42", "https://loremflickr.com/400/500/sunglasses?random=183", "https://loremflickr.com/400/500/sunglasses?random=184"],
+    "description": "Timeless wayfarer-style sunglasses with polarized lenses for 100% UV protection.",
+    "location": "Venice, CA",
+    "category": "Trading",
+    "user": { "name": "StyleIcon", "avatarUrl": "https://randomuser.me/api/portraits/men/42.jpg" }
+  },
+  {
+    "id": "ad_043",
+    "title": "Gardening Tool Set",
+    "price": "38.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=43", "https://picsum.photos/400/400?random=185", "https://picsum.photos/400/400?random=186"],
+    "description": "A 3-piece gardening set including a trowel, transplanter, and cultivator. Ergonomic handles.",
+    "location": "Savannah, GA",
+    "category": "Free Ad",
+    "user": { "name": "GardenGuru", "avatarUrl": "https://randomuser.me/api/portraits/women/43.jpg" }
+  },
+  {
+    "id": "ad_044",
+    "title": "Pickleball Paddle Set",
+    "price": "60.00",
+    "imageUrls": ["https://loremflickr.com/400/300/pickleball?random=44", "https://loremflickr.com/400/300/pickleball?random=187", "https://loremflickr.com/400/300/pickleball?random=188"],
+    "description": "A set of two lightweight graphite pickleball paddles and four balls. USAPA approved.",
+    "location": "The Villages, FL",
+    "category": "Trading",
+    "user": { "name": "PickleballPro", "avatarUrl": "https://randomuser.me/api/portraits/men/44.jpg" }
+  },
+  {
+    "id": "ad_045",
+    "title": "Electric Toothbrush",
+    "price": "50.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=45", "https://picsum.photos/400/500?random=189", "https://picsum.photos/400/500?random=190"],
+    "description": "A sonic electric toothbrush with a 2-minute timer and multiple cleaning modes for a healthier smile.",
+    "location": "Indianapolis, IN",
+    "category": "Free Ad",
+    "user": { "name": "HealthySmile", "avatarUrl": "https://randomuser.me/api/portraits/women/45.jpg" }
+  },
+  {
+    "id": "ad_046",
+    "title": "Drone for Beginners",
+    "price": "85.00",
+    "imageUrls": ["https://loremflickr.com/400/400/drone?random=46", "https://loremflickr.com/400/400/drone?random=191", "https://loremflickr.com/400/400/drone?random=192"],
+    "description": "An easy-to-fly drone with a 720p camera, altitude hold, and one-key takeoff/landing.",
+    "location": "Salt Lake City, UT",
+    "category": "Trading",
+    "user": { "name": "SkyPilot", "avatarUrl": "https://randomuser.me/api/portraits/men/46.jpg" }
+  },
+  {
+    "id": "ad_047",
+    "title": "Waffle Maker",
+    "price": "30.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=47", "https://picsum.photos/400/300?random=193", "https://picsum.photos/400/300?random=194"],
+    "description": "A classic round waffle maker that makes perfect Belgian waffles. Non-stick surface.",
+    "location": "Madison, WI",
+    "category": "Free Ad",
+    "user": { "name": "BreakfastClub", "avatarUrl": "https://randomuser.me/api/portraits/women/47.jpg" }
+  },
+  {
+    "id": "ad_048",
+    "title": "Skateboard Deck",
+    "price": "55.00",
+    "imageUrls": ["https://loremflickr.com/400/500/skateboard?random=48", "https://loremflickr.com/400/500/skateboard?random=195", "https://loremflickr.com/400/500/skateboard?random=196"],
+    "description": "A high-quality 8.25-inch skateboard deck made from 7-ply Canadian maple.",
+    "location": "Long Beach, CA",
+    "category": "Trading",
+    "user": { "name": "SkaterLife", "avatarUrl": "https://randomuser.me/api/portraits/men/48.jpg" }
+  },
+  {
+    "id": "ad_049",
+    "title": "Hair Dryer",
+    "price": "45.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=49", "https://picsum.photos/400/400?random=197", "https://picsum.photos/400/400?random=198"],
+    "description": "A professional ionic hair dryer that reduces frizz and drying time. Includes diffuser and concentrator.",
+    "location": "Orlando, FL",
+    "category": "Free Ad",
+    "user": { "name": "GoodHairDay", "avatarUrl": "https://randomuser.me/api/portraits/women/49.jpg" }
+  },
+  {
+    "id": "ad_050",
+    "title": "Dungeons & Dragons Starter Set",
+    "price": "20.00",
+    "imageUrls": ["https://loremflickr.com/400/300/dragon?random=50", "https://loremflickr.com/400/300/dragon?random=199", "https://loremflickr.com/400/300/dragon?random=200"],
+    "description": "The perfect introduction to the world of D&D. Includes rulebook, dice, and a starter adventure.",
+    "location": "Provo, UT",
+    "category": "Trading",
+    "user": { "name": "DungeonMaster", "avatarUrl": "https://randomuser.me/api/portraits/men/50.jpg" }
+  },
+  {
+    "id": "ad_051",
+    "title": "Tote Bag",
+    "price": "28.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=51", "https://picsum.photos/400/500?random=201", "https://picsum.photos/400/500?random=202"],
+    "description": "A sturdy and stylish canvas tote bag with a beautiful screen-printed design.",
+    "location": "Columbus, OH",
+    "category": "Free Ad",
+    "user": { "name": "MarketGoer", "avatarUrl": "https://randomuser.me/api/portraits/women/51.jpg" }
+  },
+  {
+    "id": "ad_052",
+    "title": "Lap Desk",
+    "price": "35.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=52", "https://picsum.photos/400/400?random=203", "https://picsum.photos/400/400?random=204"],
+    "description": "A comfortable lap desk with a device ledge, mouse pad, and cushioned base. Fits up to a 15\" laptop.",
+    "location": "Richmond, VA",
+    "category": "Free Ad",
+    "user": { "name": "WorkFromCouch", "avatarUrl": "https://randomuser.me/api/portraits/men/52.jpg" }
+  },
+  {
+    "id": "ad_053",
+    "title": "Portable Charger",
+    "price": "30.00",
+    "imageUrls": ["https://loremflickr.com/400/300/battery?random=53", "https://loremflickr.com/400/300/battery?random=205", "https://loremflickr.com/400/300/battery?random=206"],
+    "description": "A slim 10,000mAh power bank to charge your phone and other devices on the go.",
+    "location": "San Antonio, TX",
+    "category": "Trading",
+    "user": { "name": "AlwaysCharged", "avatarUrl": "https://randomuser.me/api/portraits/women/53.jpg" }
+  },
+  {
+    "id": "ad_054",
+    "title": "Frisbee",
+    "price": "12.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=54", "https://picsum.photos/400/500?random=207", "https://picsum.photos/400/500?random=208"],
+    "description": "A professional-weight 175g ultimate frisbee. Flies straight and true.",
+    "location": "Santa Barbara, CA",
+    "category": "Free Ad",
+    "user": { "name": "ParkLife", "avatarUrl": "https://randomuser.me/api/portraits/men/54.jpg" }
+  },
+  {
+    "id": "ad_055",
+    "title": "Board Game - Catan",
+    "price": "40.00",
+    "imageUrls": ["https://loremflickr.com/400/400/boardgame?random=55", "https://loremflickr.com/400/400/boardgame?random=209", "https://loremflickr.com/400/400/boardgame?random=210"],
+    "description": "The classic strategy board game of trade, building, and settlement. For 3-4 players.",
+    "location": "Ann Arbor, MI",
+    "category": "Trading",
+    "user": { "name": "GameNight", "avatarUrl": "https://randomuser.me/api/portraits/women/55.jpg" }
+  },
+  {
+    "id": "ad_056",
+    "title": "Milk Frother",
+    "price": "18.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=56", "https://picsum.photos/400/300?random=211", "https://picsum.photos/400/300?random=212"],
+    "description": "A handheld, battery-operated milk frother for making lattes and cappuccinos at home.",
+    "location": "Milwaukee, WI",
+    "category": "Free Ad",
+    "user": { "name": "HomeBarista", "avatarUrl": "https://randomuser.me/api/portraits/men/56.jpg" }
+  },
+  {
+    "id": "ad_057",
+    "title": "Waterproof Picnic Blanket",
+    "price": "30.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=57", "https://picsum.photos/400/500?random=213", "https://picsum.photos/400/500?random=214"],
+    "description": "A large, foldable picnic blanket with a waterproof backing. Easy to carry and clean.",
+    "location": "San Francisco, CA",
+    "category": "Trading",
+    "user": { "name": "PicnicPro", "avatarUrl": "https://randomuser.me/api/portraits/women/57.jpg" }
+  },
+  {
+    "id": "ad_058",
+    "title": "Computer Monitor Stand",
+    "price": "25.00",
+    "imageUrls": ["https://loremflickr.com/400/400/desk?random=58", "https://loremflickr.com/400/400/desk?random=215", "https://loremflickr.com/400/400/desk?random=216"],
+    "description": "A simple monitor stand to raise your screen to an ergonomic height. Has space for storage underneath.",
+    "location": "Omaha, NE",
+    "category": "Free Ad",
+    "user": { "name": "ErgoOffice", "avatarUrl": "https://randomuser.me/api/portraits/men/58.jpg" }
+  },
+  {
+    "id": "ad_059",
+    "title": "Beanie",
+    "price": "22.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=59", "https://picsum.photos/400/300?random=217", "https://picsum.photos/400/300?random=218"],
+    "description": "A soft, ribbed-knit beanie to keep you warm in style. 100% acrylic.",
+    "location": "Boulder, CO",
+    "category": "Trading",
+    "user": { "name": "WinterStyle", "avatarUrl": "https://randomuser.me/api/portraits/women/59.jpg" }
+  },
+  {
+    "id": "ad_060",
+    "title": "Dog Leash",
+    "price": "20.00",
+    "imageUrls": ["https://loremflickr.com/400/500/dog?random=60", "https://loremflickr.com/400/500/dog?random=219", "https://loremflickr.com/400/500/dog?random=220"],
+    "description": "A durable 6-foot dog leash made from climbing rope with a comfortable padded handle.",
+    "location": "Bend, OR",
+    "category": "Free Ad",
+    "user": { "name": "DogLover", "avatarUrl": "https://randomuser.me/api/portraits/men/60.jpg" }
+  }
+]

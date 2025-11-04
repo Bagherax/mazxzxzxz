@@ -1,0 +1,83 @@
+
+[
+  {
+    "id": "trade_001",
+    "itemName": "Collectible Action Figure",
+    "price": "85.00",
+    "timestamp": "2m ago",
+    "buyer": "User123",
+    "seller": "CollectorX"
+  },
+  {
+    "id": "trade_002",
+    "itemName": "First Edition Novel",
+    "price": "250.00",
+    "timestamp": "5m ago",
+    "buyer": "Bookworm",
+    "seller": "RareFinds"
+  },
+  {
+    "id": "trade_003",
+    "itemName": "Limited Edition Sneakers",
+    "price": "320.00",
+    "timestamp": "8m ago",
+    "buyer": "SneakerHead",
+    "seller": "KicksCo"
+  },
+  {
+    "id": "trade_004",
+    "itemName": "Vintage Concert Poster",
+    "price": "120.00",
+    "timestamp": "11m ago",
+    "buyer": "MusicFan",
+    "seller": "RockArchives"
+  },
+  {
+    "id": "trade_005",
+    "itemName": "Rare Comic Book",
+    "price": "450.00",
+    "timestamp": "15m ago",
+    "buyer": "ComicGeek",
+    "seller": "Heroes4Sale"
+  },
+  {
+    "id": "trade_006",
+    "itemName": "Designer Handbag",
+    "price": "1100.00",
+    "timestamp": "19m ago",
+    "buyer": "Fashionista",
+    "seller": "LuxeLocker"
+  },
+  {
+    "id": "trade_007",
+    "itemName": "Holographic Trading Card",
+    "price": "75.00",
+    "timestamp": "22m ago",
+    "buyer": "CardShark",
+    "seller": "TCG-Emporium"
+  },
+  {
+    "id": "trade_008",
+    "itemName": "Mechanical Watch Movement",
+    "price": "180.00",
+    "timestamp": "25m ago",
+    "buyer": "WatchMaker",
+    "seller": "TimePieces"
+  },
+  {
+    "id": "trade_009",
+    "itemName": "Fountain Pen Nib",
+    "price": "90.00",
+    "timestamp": "28m ago",
+    "buyer": "PenCollector",
+    "seller": "InkwellSupply"
+  },
+  {
+    "id": "trade_010",
+    "itemName": "Artisan Keycap",
+    "price": "65.00",
+    "timestamp": "30m ago",
+    "buyer": "MechKeys",
+    "seller": "KeyCrafters"
+  }
+]

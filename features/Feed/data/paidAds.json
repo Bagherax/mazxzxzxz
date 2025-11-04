@@ -1,0 +1,223 @@
+
+[
+  {
+    "id": "paid_001",
+    "title": "Premium Wireless Earbuds",
+    "price": "129.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=61", "https://picsum.photos/400/400?random=221", "https://picsum.photos/400/400?random=222"],
+    "description": "Experience crystal-clear audio with our new noise-cancelling wireless earbuds. 24-hour battery life.",
+    "location": "Cupertino, CA",
+    "category": "Paid Ad",
+    "user": { "name": "AudioPhile Inc.", "avatarUrl": "https://i.pravatar.cc/48?u=audiophile" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_002",
+    "title": "Handmade Leather Briefcase",
+    "price": "320.00",
+    "imageUrls": ["https://loremflickr.com/400/300/briefcase?random=62", "https://loremflickr.com/400/300/briefcase?random=223", "https://loremflickr.com/400/300/briefcase?random=224"],
+    "description": "Artisan-crafted from full-grain leather, this briefcase is designed for the modern professional.",
+    "location": "Florence, Italy",
+    "category": "Paid Ad",
+    "user": { "name": "Vera Pelle", "avatarUrl": "https://i.pravatar.cc/48?u=verapelle" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_003",
+    "title": "4K Action Camera",
+    "price": "299.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=63", "https://picsum.photos/400/500?random=225", "https://picsum.photos/400/500?random=226"],
+    "description": "Capture your adventures in stunning 4K. Waterproof up to 30 meters with advanced image stabilization.",
+    "location": "San Mateo, CA",
+    "category": "Paid Ad",
+    "user": { "name": "GoAction", "avatarUrl": "https://i.pravatar.cc/48?u=goaction" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_004",
+    "title": "Organic Skincare Set",
+    "price": "85.00",
+    "imageUrls": ["https://loremflickr.com/400/400/skincare?random=64", "https://loremflickr.com/400/400/skincare?random=227", "https://loremflickr.com/400/400/skincare?random=228"],
+    "description": "A complete facial care set made with certified organic ingredients. For all skin types.",
+    "location": "Byron Bay, AU",
+    "category": "Paid Ad",
+    "user": { "name": "Pure Glow", "avatarUrl": "https://i.pravatar.cc/48?u=pureglow" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_005",
+    "title": "Smart Indoor Garden",
+    "price": "150.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=65", "https://picsum.photos/400/300?random=229", "https://picsum.photos/400/300?random=230"],
+    "description": "Grow fresh herbs and vegetables indoors with our automated smart garden. No green thumb required.",
+    "location": "Helsinki, Finland",
+    "category": "Paid Ad",
+    "user": { "name": "UrbanGrow", "avatarUrl": "https://i.pravatar.cc/48?u=urbangrow" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_006",
+    "title": "GPS Smartwatch",
+    "price": "275.00",
+    "imageUrls": ["https://loremflickr.com/400/500/watch?random=66", "https://loremflickr.com/400/500/watch?random=231", "https://loremflickr.com/400/500/watch?random=232"],
+    "description": "Track your fitness, navigate your routes, and stay connected with our latest GPS smartwatch.",
+    "location": "Olathe, KS",
+    "category": "Paid Ad",
+    "user": { "name": "FitTrack", "avatarUrl": "https://i.pravatar.cc/48?u=fittrack" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_007",
+    "title": "Meditation Cushion",
+    "price": "65.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=67", "https://picsum.photos/400/400?random=233", "https://picsum.photos/400/400?random=234"],
+    "description": "Find your zen with our buckwheat-filled meditation cushion. Promotes proper posture and comfort.",
+    "location": "Kyoto, Japan",
+    "category": "Paid Ad",
+    "user": { "name": "Mindful Living", "avatarUrl": "https://i.pravatar.cc/48?u=mindfulliving" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_008",
+    "title": "Custom Mechanical Keyboard",
+    "price": "180.00",
+    "imageUrls": ["https://loremflickr.com/400/300/keyboard?random=68", "https://loremflickr.com/400/300/keyboard?random=235", "https://loremflickr.com/400/300/keyboard?random=236"],
+    "description": "Build your dream keyboard with our fully customizable hot-swappable mechanical keyboard kit.",
+    "location": "Taipei, Taiwan",
+    "category": "Paid Ad",
+    "user": { "name": "KeyCraft", "avatarUrl": "https://i.pravatar.cc/48?u=keycraft" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_009",
+    "title": "Lightweight Camping Hammock",
+    "price": "70.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=69", "https://picsum.photos/400/500?random=237", "https://picsum.photos/400/500?random=238"],
+    "description": "Ultralight and durable camping hammock. Packs down small and sets up in minutes.",
+    "location": "Asheville, NC",
+    "category": "Paid Ad",
+    "user": { "name": "TrailComfort", "avatarUrl": "https://i.pravatar.cc/48?u=trailcomfort" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_010",
+    "title": "Meal Prep Container Set",
+    "price": "35.00",
+    "imageUrls": ["https://loremflickr.com/400/400/mealprep?random=70", "https://loremflickr.com/400/400/mealprep?random=239", "https://loremflickr.com/400/400/mealprep?random=240"],
+    "description": "A set of 10 glass meal prep containers with leak-proof lids. Microwave, oven, and dishwasher safe.",
+    "location": "Los Angeles, CA",
+    "category": "Paid Ad",
+    "user": { "name": "PrepPerfect", "avatarUrl": "https://i.pravatar.cc/48?u=prepperfect" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_011",
+    "title": "High-Performance Blender",
+    "price": "250.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=71", "https://picsum.photos/400/300?random=241", "https://picsum.photos/400/300?random=242"],
+    "description": "Pulverize anything from smoothies to hot soups with this powerful 1400-watt blender.",
+    "location": "Cleveland, OH",
+    "category": "Paid Ad",
+    "user": { "name": "BlendMaster", "avatarUrl": "https://i.pravatar.cc/48?u=blendmaster" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_012",
+    "title": "Sustainable Bamboo Toothbrushes",
+    "price": "15.00",
+    "imageUrls": ["https://loremflickr.com/400/500/toothbrush?random=72", "https://loremflickr.com/400/500/toothbrush?random=243", "https://loremflickr.com/400/500/toothbrush?random=244"],
+    "description": "Make the switch to a greener clean with our pack of 4 biodegradable bamboo toothbrushes.",
+    "location": "Vancouver, BC",
+    "category": "Paid Ad",
+    "user": { "name": "EcoSmile", "avatarUrl": "https://i.pravatar.cc/48?u=ecosmile" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_013",
+    "title": "Professional Condenser Microphone",
+    "price": "140.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=73", "https://picsum.photos/400/400?random=245", "https://picsum.photos/400/400?random=246"],
+    "description": "USB condenser microphone for streaming, podcasting, and recording. Plug and play.",
+    "location": "Vienna, Austria",
+    "category": "Paid Ad",
+    "user": { "name": "StudioSound", "avatarUrl": "https://i.pravatar.cc/48?u=studiosound" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_014",
+    "title": "Performance Athletic Socks",
+    "price": "25.00",
+    "imageUrls": ["https://loremflickr.com/400/300/socks?random=74", "https://loremflickr.com/400/300/socks?random=247", "https://loremflickr.com/400/300/socks?random=248"],
+    "description": "A 3-pack of moisture-wicking athletic socks with arch support and cushioned soles.",
+    "location": "Beaverton, OR",
+    "category": "Paid Ad",
+    "user": { "name": "SoleFit", "avatarUrl": "https://i.pravatar.cc/48?u=solefit" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_015",
+    "title": "Blue Light Blocking Glasses",
+    "price": "75.00",
+    "imageUrls": ["https://picsum.photos/400/500?random=75", "https://picsum.photos/400/500?random=249", "https://picsum.photos/400/500?random=250"],
+    "description": "Protect your eyes from digital strain with our stylish and effective blue light blocking glasses.",
+    "location": "New York, NY",
+    "category": "Paid Ad",
+    "user": { "name": "EyeZen", "avatarUrl": "https://i.pravatar.cc/48?u=eyezen" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_016",
+    "title": "Cold Brew Coffee Maker",
+    "price": "45.00",
+    "imageUrls": ["https://loremflickr.com/400/400/coffee?random=76", "https://loremflickr.com/400/400/coffee?random=251", "https://loremflickr.com/400/400/coffee?random=252"],
+    "description": "Make smooth, low-acid cold brew coffee at home with this simple and elegant glass pitcher system.",
+    "location": "Austin, TX",
+    "category": "Paid Ad",
+    "user": { "name": "ChillBrew", "avatarUrl": "https://i.pravatar.cc/48?u=chillbrew" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_017",
+    "title": "Adjustable Dumbbell Set",
+    "price": "350.00",
+    "imageUrls": ["https://picsum.photos/400/300?random=77", "https://picsum.photos/400/300?random=253", "https://picsum.photos/400/300?random=254"],
+    "description": "Save space with our adjustable dumbbells. Replaces 15 sets of weights with a simple turn of a dial.",
+    "location": "San Diego, CA",
+    "category": "Paid Ad",
+    "user": { "name": "FlexiFit", "avatarUrl": "https://i.pravatar.cc/48?u=flexifit" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_018",
+    "title": "Weighted Sleep Mask",
+    "price": "40.00",
+    "imageUrls": ["https://loremflickr.com/400/500/mask?random=78", "https://loremflickr.com/400/500/mask?random=255", "https://loremflickr.com/400/500/mask?random=256"],
+    "description": "A gentle, weighted mask that provides pressure stimulation to help you relax and fall asleep faster.",
+    "location": "Boulder, CO",
+    "category": "Paid Ad",
+    "user": { "name": "DeepSleep Co.", "avatarUrl": "https://i.pravatar.cc/48?u=deepsleep" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_019",
+    "title": "Smart Reusable Water Bottle",
+    "price": "60.00",
+    "imageUrls": ["https://picsum.photos/400/400?random=79", "https://picsum.photos/400/400?random=257", "https://picsum.photos/400/400?random=258"],
+    "description": "This smart bottle tracks your water intake and glows to remind you to stay hydrated.",
+    "location": "Boston, MA",
+    "category": "Paid Ad",
+    "user": { "name": "HydrateSmart", "avatarUrl": "https://i.pravatar.cc/48?u=hydratesmart" },
+    "sponsored": true
+  },
+  {
+    "id": "paid_020",
+    "title": "Travel & Packing Cubes",
+    "price": "30.00",
+    "imageUrls": ["https://loremflickr.com/400/300/travel?random=80", "https://loremflickr.com/400/300/travel?random=259", "https://loremflickr.com/400/300/travel?random=260"],
+    "description": "A set of 6 packing cubes to organize your luggage and compress your clothes, making travel a breeze.",
+    "location": "London, UK",
+    "category": "Paid Ad",
+    "user": { "name": "WanderMore", "avatarUrl": "https://i.pravatar.cc/48?u=wandermore" },
+    "sponsored": true
+  }
+]
